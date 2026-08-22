@@ -1,6 +1,0 @@
-{
-  "name": "Dayflow HRMS",
-  "description": "Clean, modern Human Resource Management System with role-based authentication, real-time attendance tracking, leave approval workflows, employee profile management, and payroll visibility.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
