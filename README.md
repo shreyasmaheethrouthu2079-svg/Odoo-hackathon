@@ -1,2 +1,0 @@
-# Odoo-hackathon
-problem statement 
