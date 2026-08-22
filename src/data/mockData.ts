@@ -190,6 +190,7 @@ export const INITIAL_USERS: User[] = [
 ];
 
 export const INITIAL_ATTENDANCE_RECORDS: AttendanceRecord[] = [
+  // Today's attendance
   {
     id: 'att-today-1',
     employeeId: 'DF-1001',
@@ -244,6 +245,7 @@ export const INITIAL_ATTENDANCE_RECORDS: AttendanceRecord[] = [
     workMode: 'Office',
     locationNote: 'San Francisco HQ',
   },
+  // Recent past records for Rohan Sharma (Employee 1)
   {
     id: 'att-hist-1',
     employeeId: 'DF-1042',
@@ -517,3 +519,4 @@ export const INITIAL_NOTIFICATIONS: NotificationAlert[] = [
     linkTab: 'dashboard',
   },
 ];
+
